@@ -6,5 +6,6 @@ public class HelloWorld
   main (String[] args) 
 {
   System.out.println ("Welcome to butts.net");
+  System.out.println ("Hello there, friendo");
 } // main(String[])
 }
